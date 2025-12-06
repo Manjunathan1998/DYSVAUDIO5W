@@ -40,7 +40,7 @@ device status.
 The Power pins of DYSV module should connect to 5V and GND\
 TX and RX of DYSV should connect to Software Serial(RX and TX) respectively\
 TX of DYSV -> RX of MCU\
-RX of DYSV -> TX of MCU\
+RX of DYSV -> TX of MCU
 
 ------------------------------------------------------------------------
 

@@ -101,4 +101,4 @@ Please follow standard C++ formatting and keep code readable.
 
 ## 📄 License
 
-MIT License © 2025 Manjunathan S
+LGPL-2.1 © 2025 Manjunathan S

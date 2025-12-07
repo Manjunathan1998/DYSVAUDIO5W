@@ -242,4 +242,3 @@ int DYSVAudio5W::begin() {
   setVolume(dynamic_volume_grade); //Default Volume
   return queryTotalSongs(); //Return the total number of songs
 }
-

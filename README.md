@@ -1,6 +1,6 @@
 # DYSVAudio5W Library
 
-A robust and easy‑to‑use Arduino library for controlling the DYSVAudio5W
+A robust and easy‑to‑use Arduino library for controlling the DY-SVAudio5W
 Audio Module using serial communication.\
 This library provides a clean, object‑oriented interface for sending
 audio commands, controlling playback, adjusting volume, and querying
